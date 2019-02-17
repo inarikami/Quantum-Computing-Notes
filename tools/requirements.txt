@@ -1,0 +1,10 @@
+tensorflow-gpu
+keras
+keras-rl
+opencv-python
+dash
+pytesseract
+scikit-image
+gym
+selenium
+matplotlib
